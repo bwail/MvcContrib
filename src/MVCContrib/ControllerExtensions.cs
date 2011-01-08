@@ -7,7 +7,7 @@ namespace MvcContrib
 {
 	///<summary>
 	/// Static class containing extension methods for controllers
-    /// This is a test
+    /// This is a test 
 	///</summary>
 	public static class ControllerExtensions
 	{
